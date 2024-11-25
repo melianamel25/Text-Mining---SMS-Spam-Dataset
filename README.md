@@ -1,9 +1,6 @@
 # Klasifikasi SMS dengan Menggunakan Algoritma Support Vector Machine (SVM)
 ## Deskripsi Project
-Proyek ini bertujuan untuk membangun model klasifikasi SMS menggunakan algoritma Support Vector Machine (SVM). Model ini dirancang untuk mengklasifikasikan SMS menjadi tiga kategori:
-1. Normal
-2. Penipuan (Fraud)
-3. Promosi (Promo)
+Proyek ini bertujuan untuk membangun model klasifikasi SMS menggunakan algoritma Support Vector Machine (SVM).
 Selain itu, proyek ini mengevaluasi kinerja SVM dalam menangani data teks (SMS), mencakup proses cleaning, preprocessing dan modelling.
 
 ## Dataset 
